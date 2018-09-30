@@ -36,7 +36,7 @@ Durch die Einstellung eines Parameters kann das Spielfeld stufenlos skaliert wer
 
 ### Skalierung der Überschrift
 
-Wird der obere Rand in seiner größe geändert, passt sich die Größe der Überschrift an.
+Wird der obere Rand in seiner Größe geändert, passt sich die Größe der Überschrift an.
 
 <img src="./images/small_header.png" width="500" />
 
